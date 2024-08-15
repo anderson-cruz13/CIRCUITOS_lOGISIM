@@ -18,7 +18,7 @@
   <lib desc="#BFH-Praktika" name="9"/>
   <lib desc="#Input/Output-Extra" name="10"/>
   <lib desc="#Soc" name="11"/>
-  <main name="teclas"/>
+  <main name="teclado"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
     <a name="simlimit" val="1000"/>
@@ -1237,7 +1237,7 @@
     <a name="appearance" val="logisim_evolution"/>
     <a name="circuit" val="teclado"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
-    <a name="simulationFrequency" val="4.0"/>
+    <a name="simulationFrequency" val="16.0"/>
     <comp lib="0" loc="(250,20)" name="Pull Resistor">
       <a name="facing" val="north"/>
     </comp>
